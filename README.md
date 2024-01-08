@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 # 💫 About Me:
-Follower of the unknowns,<br>Seeker of the horizons,<br>Keeper of the dreams...
+Follower of the unknowns,<br>Seeker of the horizons,<br>Keeper of the dreams...<br>
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=4000&pause=500&color=F7F7F7&center=true&random=true&lines=I+am+a+Web+Developer.;I+am+a+Programmer.;I+am+a+Designer.;I+am+a+Tech+Enthusiast.;I+am+a+Freelancer.;I+am+the+Leader.) 
 
 
 ## 🌐 Socials:
