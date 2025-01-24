@@ -31,7 +31,7 @@ When I'm not busy rewriting code that worked yesterday but somehow doesn’t tod
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TheDevyashSaini) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheDevyashSaini)
 
-*Warning: Following me might result in unexpected bursts of sarcasm and obscure programming memes.*
+*Warning: Following me might result in unexpected bursts of sarcasm and obscure programming memes.* (👈 Believe me, I told ChatGPT this is not a good line.)
 
 ## 💬 My Coding Philosophy
 
