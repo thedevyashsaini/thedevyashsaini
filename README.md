@@ -1,48 +1,67 @@
+<img width="1080" height="333" alt="Distributed Systems, Infrastructure, and Developer Tools" src="https://github.com/user-attachments/assets/dc68534c-10bd-4e34-9610-422de7c791e5" />
+
+> I don’t "aspire" to be anything. I just build.
+
+<br>
+
+<h3>About Me :)</h3>
+
+Backend and infrastructure engineer. <br>Mostly working on distributed systems, developer tooling, <br>and things that require too many containers.
+
+I like systems that move data, schedule work, <br>and occasionally survive production.
+
+> I write code. Sometimes it works.
+
+<h3 align="left">I work with:</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=rust,py,ts,react,nextjs,fastapi,nodejs,docker,kubernetes,aws,gcp,azure,postgres,redis,mongodb,rabbitmq,github,linux,bash,nginx,supabase,vercel,terraform,vim,wasm&perline=5" />
+</p>
+
+<h3 align="left">I also know:</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,cloudflare,firebase,figma,graphql&perline=5" />
+</p>
+
+Infra, web, distributed systems. <br>And your Figma friend.
 
 
-# ⚡ Devyash Saini
+<br>
 
-### // I write code. Sometimes it works.
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### I've built
 
-## 🧠 About Me
+**[Overengineered BRC](https://github.com/thedevyashsaini/BRC_compute)**
 
-Backend-heavy, infra-obsessed.
-Good with containers, bad with feelings.
-Mostly building things no one asked for, but everyone ends up using.
-Currently engineering chaos.
+A distributed benchmarking pipeline that executes workloads across worker clusters using queue-based scheduling and containerized execution.
 
-I don’t "aspire" to be anything. I just build.
+Accepted as a research paper at **IEEE ReACS 2025**.
 
+<img src="https://img.shields.io/badge/IEEE-Published-green" alt="ieee published"/>
+<br>
 
-## ⚙️ Stack (So You Stop Asking)
+</td>
 
-`Rust` • `Python` • `TypeScript` <br>
-`React` • `Next.js` • `FastAPI` <br>
-`PostgreSQL` • `Supabase` • `Docker` • `K8s` <br>
+<td width="50%" valign="top">
 
-Infra, web, distributed systems. And your Figma friend.
+### I'm building
 
+**[Scrawn](https://github.com/ScrawnDotDev)**
 
-## 🧩 Current Projects
+Usage-based billing infrastructure for developers.
 
-* **Scrawn** – backend infra platform (think Railway, but not allergic to control)
-* **Billion Rows Challenge** – yes, that’s exactly what it sounds like
-* **Painsicle Auth** – auth that doesn’t suck™
+Tracks API usage, compute, tokens, or any custom metric and automatically handles credits, subscriptions, invoices, and payments.
 
+<img src="https://img.shields.io/badge/Open-Source-blue" alt="open source"/>
+<br>
 
-## 📉 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDevyashSaini\&theme=dark\&hide_border=true\&count_private=true\&show_icons=true)
-
-> Yep, I commit at 3AM. Yes, I’m fine. No, don’t ask again.
-
-
-## 🔍 Contact (If You Must)
-
-[Email](mailto:thedevyashsaini@gmail.com) • [LinkedIn](https://linkedin.com/in/TheDevyashSaini) • [Twitter](https://twitter.com/TheDevyashSaini)
-DMs open, but use wisely.
+</td>
+</tr>
+</table>
 
 
-> "Code is poetry. Mine's just aggressively sarcastic."
-
+> Code is poetry. Mine's just aggressively sarcastic.
