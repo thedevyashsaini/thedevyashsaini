@@ -1,8 +1,16 @@
 <img width="1080" height="333" alt="Distributed Systems, Infrastructure, and Developer Tools" src="https://github.com/user-attachments/assets/dc68534c-10bd-4e34-9610-422de7c791e5" />
 
+
 > I don’t "aspire" to be anything. I just build.
 
 <br>
+
+
+<a href="https://github.com/thedevyashsaini/redrumdb" target="_blank">
+  <img src="https://img.shields.io/badge/REDRUM%20DB-High%20Performance%20KV-black?style=for-the-badge&logo=redis&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Zero--Copy-Parsing-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Event--Driven-mio%20loop-purple?style=for-the-badge"/>
+</a>
 
 <h3>About Me :)</h3>
 
@@ -35,11 +43,11 @@ Infra, web, distributed systems. <br>And your Figma friend.
 
 ### I've built
 
-**[Overengineered BRC](https://github.com/thedevyashsaini/BRC_compute)**
+**[Overengineered BRC](https://painsicle.substack.com/p/overengineering-the-brc)**
 
 A distributed benchmarking pipeline that executes workloads across worker clusters using queue-based scheduling and containerized execution.
 
-Accepted as a research paper at **IEEE ReACS 2025**.
+Accepted as a research paper at **[IEEE ReACS 2025](https://ieeexplore.ieee.org/document/11413447)**.
 
 <img src="https://img.shields.io/badge/IEEE-Published-green" alt="ieee published"/>
 <br>
@@ -50,7 +58,7 @@ Accepted as a research paper at **IEEE ReACS 2025**.
 
 ### I'm building
 
-**[Scrawn](https://github.com/ScrawnDotDev)**
+**[Scrawn](https://scrawn.vercel.app/)**
 
 Usage-based billing infrastructure for developers.
 
