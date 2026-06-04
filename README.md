@@ -58,7 +58,7 @@ Accepted as a research paper at **[IEEE ReACS 2025](https://ieeexplore.ieee.org/
 
 ### I'm building
 
-**[Scrawn](https://scrawn.vercel.app/)**
+**[Scrawn](https://www.scrawn.dev/)**
 
 Usage-based billing infrastructure for developers.
 
